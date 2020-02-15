@@ -139,7 +139,7 @@ Casual Tux FlowerStripe is released under the same license as the original Tux.
        is_visible="true" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient41823-2"
+       xlink:href="#linearGradient41823-pink"
        id="linearGradient22301-9"
        x1="624.62872"
        y1="577.6795"
@@ -150,7 +150,7 @@ Casual Tux FlowerStripe is released under the same license as the original Tux.
        gradientTransform="translate(-3.1e-4,-3e-4)" />
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient41823-2">
+       id="linearGradient41823-pink">
       <stop
          style="stop-color:#e0218a;stop-opacity:1;"
          offset="0"
@@ -1014,7 +1014,7 @@ Casual Tux FlowerStripe is released under the same license as the original Tux.
        r="333.21906" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient41823-2"
+       xlink:href="#linearGradient41823-pink"
        id="linearGradient22269-1"
        x1="434.07629"
        y1="585.42938"
@@ -1246,7 +1246,7 @@ Casual Tux FlowerStripe is released under the same license as the original Tux.
     <linearGradient
        gradientTransform="translate(-1.8e-4,3e-5)"
        inkscape:collect="always"
-       xlink:href="#linearGradient41823-2"
+       xlink:href="#linearGradient41823-pink"
        id="linearGradient41825-8-0"
        x1="799.32672"
        y1="445.55365"
@@ -1486,7 +1486,7 @@ Casual Tux FlowerStripe is released under the same license as the original Tux.
     <linearGradient
        gradientTransform="translate(6e-5,-1.7000642e-4)"
        inkscape:collect="always"
-       xlink:href="#linearGradient41823-2"
+       xlink:href="#linearGradient41823-pink"
        id="linearGradient41788-1-0"
        x1="293.28964"
        y1="472.17325"
@@ -2629,7 +2629,7 @@ Casual Tux FlowerStripe is released under the same license as the original Tux.
        r="333.21906" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient41823-2"
+       xlink:href="#linearGradient41823-pink"
        id="linearGradient25930"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(-3.1e-4,-3e-4)"
@@ -2840,7 +2840,7 @@ Casual Tux FlowerStripe is released under the same license as the original Tux.
        y2="259.36899" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient41823-2"
+       xlink:href="#linearGradient41823-pink"
        id="linearGradient25972"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(3.6034e-4,-1.2867129e-4)"
@@ -2851,7 +2851,7 @@ Casual Tux FlowerStripe is released under the same license as the original Tux.
        spreadMethod="reflect" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient41823-2"
+       xlink:href="#linearGradient41823-pink"
        id="linearGradient25974"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(-1.8e-4,3e-5)"
@@ -2861,7 +2861,7 @@ Casual Tux FlowerStripe is released under the same license as the original Tux.
        y2="534.0376" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient41823-2"
+       xlink:href="#linearGradient41823-pink"
        id="linearGradient25976"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(6e-5,-1.7000642e-4)"
