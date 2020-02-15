@@ -989,7 +989,7 @@ Casual Tux FlowerStripe is released under the same license as the original Tux.
        clipPathUnits="userSpaceOnUse"
        id="clipPath43455">
       <path
-         style="fill:url(#linearGradient43459);fill-opacity:1;stroke:#7d7d7d;stroke-width:8.35274982;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:url(#linearGradient43459);fill-opacity:1;stroke:#000000;stroke-width:8.35274982;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 148.65559,-243.2284 c 90.63355,5.22755 179.45282,-22.78268 275.45442,80.78309 3.61504,-79.21091 -25.53067,-244.60233 -38.15168,-292.14905 -14.08039,-116.29241 -20.01542,-91.9381 -62.67026,-284.33634 -217.78677,-89.9616 -264.059806,63.0301 -251.658497,152.0453 41.228247,63.82144 132.651417,184.75467 77.026017,343.657 z"
          id="path43457"
          inkscape:connector-curvature="0"
@@ -1229,7 +1229,7 @@ Casual Tux FlowerStripe is released under the same license as the original Tux.
        clipPathUnits="userSpaceOnUse"
        id="clipPath43859">
       <path
-         style="fill:url(#linearGradient43863);fill-opacity:1;stroke:#7d7d7d;stroke-width:8.10707283;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:url(#linearGradient43863);fill-opacity:1;stroke:#000000;stroke-width:8.10707283;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 576.3304,-220.54587 c -87.96782,5.07378 -86.45042,-28.64933 -179.62825,71.87028 -10.62403,-87.71551 -18.26742,-174.87797 -9.68881,-281.9886 0.63807,-74.44885 8.15764,-170.91444 50.9513,-279.45521 211.38105,-87.31557 198.98164,94.68172 175.22797,163.65617 -23.61785,70.14237 -58.17247,166.55897 -36.86221,325.91736 z"
          id="path43861"
          inkscape:connector-curvature="0"
@@ -1767,7 +1767,7 @@ Casual Tux FlowerStripe is released under the same license as the original Tux.
        clipPathUnits="userSpaceOnUse"
        id="clipPath43455-4">
       <path
-         style="fill:url(#linearGradient43459);fill-opacity:1;stroke:#7d7d7d;stroke-width:8.35274982;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:url(#linearGradient43459);fill-opacity:1;stroke:#000000;stroke-width:8.35274982;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 148.65559,-243.2284 c 90.63355,5.22755 179.45282,-22.78268 275.45442,80.78309 3.61504,-79.21091 -25.53067,-244.60233 -38.15168,-292.14905 -14.08039,-116.29241 -20.01542,-91.9381 -62.67026,-284.33634 -217.78677,-89.9616 -264.059806,63.0301 -251.658497,152.0453 41.228247,63.82144 132.651417,184.75467 77.026017,343.657 z"
          id="path43457-6"
          inkscape:connector-curvature="0"
@@ -2007,7 +2007,7 @@ Casual Tux FlowerStripe is released under the same license as the original Tux.
        clipPathUnits="userSpaceOnUse"
        id="clipPath43859-68">
       <path
-         style="fill:url(#linearGradient43863);fill-opacity:1;stroke:#7d7d7d;stroke-width:8.10707283;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:url(#linearGradient43863);fill-opacity:1;stroke:#000000;stroke-width:8.10707283;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 576.3304,-220.54587 c -87.96782,5.07378 -86.45042,-28.64933 -179.62825,71.87028 -10.62403,-87.71551 -18.26742,-174.87797 -9.68881,-281.9886 0.63807,-74.44885 8.15764,-170.91444 50.9513,-279.45521 211.38105,-87.31557 198.98164,94.68172 175.22797,163.65617 -23.61785,70.14237 -58.17247,166.55897 -36.86221,325.91736 z"
          id="path43861-9"
          inkscape:connector-curvature="0"
@@ -2503,25 +2503,25 @@ Casual Tux FlowerStripe is released under the same license as the original Tux.
        transform="matrix(1.9387755,0,0,1.9387755,109.61225,230.61227)"
        id="g3116">
       <path
-         style="fill:#440055;fill-opacity:1;stroke:#7d7d7d;stroke-width:2.69650722;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#440055;fill-opacity:1;stroke:#000000;stroke-width:2.69650722;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 334.15919,371.253 1.73512,27.89157 41.75161,-12.07491 -6.08189,-18.7187 z"
          id="path9588-3-1"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccccc" />
       <path
-         style="fill:#440055;fill-opacity:1;stroke:#7d7d7d;stroke-width:2.69650722;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#440055;fill-opacity:1;stroke:#000000;stroke-width:2.69650722;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 710.65482,333.4752 -1.73512,27.89157 -41.7516,-12.07491 6.08188,-18.7187 z"
          id="path9588-3"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccccc" />
       <path
-         style="fill:#191919;fill-opacity:1;stroke:#7d7d7d;stroke-width:2.69650722;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#191919;fill-opacity:1;stroke:#000000;stroke-width:2.69650722;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 840.02557,550.13051 c -46.00688,6.65557 -93.79871,15.52828 -90.97725,12.60693 l 68.85672,-49.74587 c 8.49661,11.27903 14.94534,24.56496 22.12053,37.13894 z"
          id="path9588"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccc" />
       <path
-         style="fill:#191919;fill-opacity:1;stroke:#7d7d7d;stroke-width:2.69650722;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#191919;fill-opacity:1;stroke:#000000;stroke-width:2.69650722;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 219.09944,583.02213 c 46.00686,6.65559 93.79868,15.5283 90.97723,12.60695 l -68.8567,-49.74587 c -8.49663,11.27902 -14.94536,24.56495 -22.12053,37.13892 z"
          id="path9588-42"
          inkscape:connector-curvature="0"
@@ -4389,7 +4389,7 @@ Casual Tux FlowerStripe is released under the same license as the original Tux.
            d="m 54.582,279.377 c -4.823,5.111 -14.472,-4.969 -26.855,5.543 -5.112,4.32 1.8,11.088 0.576,25.561 -0.504,5.616 -2.521,8.352 -4.536,15.768 -1.584,5.76 -2.088,8.064 0.144,10.729 5.977,6.984 11.952,-2.52 45.576,4.32 17.856,3.6 23.256,10.295 41.76,8.64 6.192,-0.576 7.272,-0.504 12.528,-5.472 6.624,-6.264 6.768,-4.824 7.56,-8.856 2.592,-13.248 3.528,-13.176 -6.336,-28.8 -9.864,-15.624 -11.448,-18.504 -18,-28.872 -6.552,-10.224 -19.512,-28.8 -26.928,-29.017 -5.904,-0.144 -9.216,3.024 -12.888,6.769 -3.672,3.745 -7.129,17.855 -12.601,23.687 z" />
       </g>
       <path
-         style="fill:#000000;fill-opacity:1;stroke:#7d7d7d;stroke-width:2.69650722;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.69650722;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 482.98604,475.83415 -4.70523,376.95182 c 136.88571,-75.10762 245.95665,-46.29685 291.47256,-49.77049 l -88.34207,-36.04089 13.88355,-72.22757 c 8.20122,-17.91484 20.50947,-25.57142 36.87575,-28.38479 17.25716,-30.04508 24.21967,-56.36611 15.51368,-102.34059 -6.6719,-51.07641 -35.50534,-69.0471 -70.41538,-90.92259 -34.12856,-68.57115 27.44813,-78.81879 51.77714,-81.30026 -6.81382,-12.25814 -6.83205,-4.6952 -18.74985,-54.77544 z"
          id="path7950"
          inkscape:connector-curvature="0"
@@ -5044,13 +5044,13 @@ Casual Tux FlowerStripe is released under the same license as the original Tux.
            d="m 269.35,236.025 c -0.68,2.647 -3.303,9.161 -4.081,8.599 -0.548,-0.4 1.377,-3.056 2.938,-8.225 0.187,-0.611 0.437,-1.438 0.806,-1.988 0.464,-0.763 1.361,-2.293 0.337,1.614 z" />
       </g>
       <path
-         style="fill:url(#linearGradient22301-9);fill-opacity:1;stroke:#7d7d7d;stroke-width:2.69650722;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:url(#linearGradient22301-9);fill-opacity:1;stroke:#000000;stroke-width:2.69650722;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 482.98604,475.83415 -4.70523,376.95182 c 136.88571,-75.10762 245.95665,-46.29685 291.47257,-49.77049 l -88.34208,-36.04089 13.88355,-72.22757 c 8.20122,-17.91484 20.50947,-25.57142 36.87575,-28.38479 17.25719,-30.04508 24.21968,-56.36611 15.51368,-102.34059 -6.67194,-51.07641 -35.50534,-69.0471 -70.41538,-90.92259 -34.12856,-68.57115 27.44813,-78.81879 51.77714,-81.30026 -6.81382,-12.25814 -6.83205,-4.6952 -18.74985,-54.77544 z"
          id="path7950-2-7"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccccccccccc" />
       <path
-         style="fill:#000000;fill-opacity:1;stroke:#7d7d7d;stroke-width:2.69650722;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.69650722;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 499.36968,474.21921 4.70523,376.95181 c -51.83246,-23.01244 -83.95045,-24.46648 -106.68422,-28.93242 8.30264,-40.70883 -11.28423,-36.57504 -65.70464,-88.86226 -17.31406,-12.95341 -43.87135,-36.54315 -59.22508,-45.80639 -2.06908,-30.54122 -0.99168,-62.00883 10.24564,-107.98332 16.06009,-41.67681 18.2574,-39.97509 44.61623,-89.52608 21.90604,-71.42307 -37.13089,-44.8808 -24.31606,-61.01267 6.81382,-12.25813 6.02515,-8.50642 37.1498,-51.17163 z"
          id="path7950-1"
          inkscape:connector-curvature="0"
@@ -6458,7 +6458,7 @@ Casual Tux FlowerStripe is released under the same license as the original Tux.
         </g>
       </g>
       <path
-         style="fill:#440055;fill-opacity:1;stroke:#7d7d7d;stroke-width:2.69650722;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#440055;fill-opacity:1;stroke:#000000;stroke-width:2.69650722;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="M 573.09604,448.48973 484.84812,474.47045 657.96567,369.08963 Z"
          id="path9588-4"
          inkscape:connector-curvature="0"
@@ -6681,19 +6681,19 @@ Casual Tux FlowerStripe is released under the same license as the original Tux.
         </g>
       </g>
       <path
-         style="fill:#440055;fill-opacity:1;stroke:#7d7d7d;stroke-width:2.69650722;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#440055;fill-opacity:1;stroke:#000000;stroke-width:2.69650722;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 618.94898,447.95478 c -3.03958,-8.27988 -7.06654,-16.55974 -18.92265,-24.83963 l 57.93934,-55.09539 53.1905,-34.66361 c 7.78099,9.09566 10.91223,18.19131 12.92246,27.28697 z"
          id="path9588-9"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccccc" />
       <path
-         style="fill:url(#linearGradient22269-1);fill-opacity:1;stroke:#7d7d7d;stroke-width:2.69650722;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:url(#linearGradient22269-1);fill-opacity:1;stroke:#000000;stroke-width:2.69650722;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 499.36924,474.21921 4.70522,376.95186 c -51.83235,-23.01246 -83.9503,-24.46658 -106.68403,-28.93244 8.30264,-40.70886 -11.2842,-36.57507 -65.7045,-88.86229 -17.31403,-12.95341 -43.87126,-36.54315 -59.22496,-45.80639 -2.06908,-30.54122 -0.99168,-62.00883 10.24562,-107.98332 16.06006,-41.67681 18.25736,-39.97509 44.61615,-89.52608 21.90599,-71.42307 -37.13082,-44.8808 -24.31601,-61.01267 6.81379,-12.25813 6.02512,-8.50642 37.14972,-51.17163 z"
          id="path7950-1-0-9"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccccccccc" />
       <path
-         style="fill:#440055;fill-opacity:1;stroke:#7d7d7d;stroke-width:2.69650722;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#440055;fill-opacity:1;stroke:#000000;stroke-width:2.69650722;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="M 428.68814,453.78418 498.91716,474.8895 361.14764,389.28385 Z"
          id="path9588-4-1"
          inkscape:connector-curvature="0"
@@ -7260,25 +7260,25 @@ Casual Tux FlowerStripe is released under the same license as the original Tux.
         </g>
       </g>
       <path
-         style="fill:#440055;fill-opacity:1;stroke:#7d7d7d;stroke-width:2.69650722;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#440055;fill-opacity:1;stroke:#000000;stroke-width:2.69650722;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 401.8982,461.40585 c 2.25205,-6.5052 5.23563,-13.01033 14.01976,-19.51548 l -42.92713,-43.28614 -39.40871,-27.23378 c -5.76492,7.14605 -8.08481,14.29217 -9.57421,21.43827 z"
          id="path9588-9-7"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccccc" />
       <path
-         style="fill:#000000;fill-opacity:1;stroke:#7d7d7d;stroke-width:2.69650722;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.69650722;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 283.12841,585.61008 c -27.23099,-10.83596 -22.03319,-20.78844 -64.25132,-3.58475 9.12737,-27.93511 19.07551,-55.28452 36.71783,-86.36699 10.65745,-22.35281 26.48416,-50.37521 54.64159,-77.07927 75.99426,3.39221 46.67353,56.51208 29.81743,73.96533 -16.97932,17.8244 -40.94882,42.03179 -56.92553,93.06568 z"
          id="path7952-7"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccccc" />
       <path
-         style="fill:#000000;fill-opacity:1;stroke:#7d7d7d;stroke-width:2.69650722;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.69650722;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 746.75274,561.904 c 27.23098,-10.83594 49.39638,-31.14914 91.61451,-13.94546 -9.74927,-23.66891 -40.84168,-68.08304 -51.02132,-80.27244 -19.98582,-32.10405 -18.39957,-24.16868 -57.12914,-74.64143 -75.99428,3.39221 -68.65978,54.46803 -52.88674,78.82034 20.77002,13.04811 64.01812,35.95785 69.42269,90.03899 z"
          id="path7952"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccccc" />
       <path
-         style="fill:url(#linearGradient41825-8-0);fill-opacity:1;stroke:#7d7d7d;stroke-width:2.69650722;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:url(#linearGradient41825-8-0);fill-opacity:1;stroke:#000000;stroke-width:2.69650722;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 746.75274,561.904 c 27.23097,-10.83594 49.39637,-31.14914 91.61454,-13.94546 -9.74931,-23.66891 -40.84172,-68.08304 -51.02136,-80.27244 -19.98581,-32.10405 -18.39956,-24.16868 -57.12913,-74.64143 -75.99428,3.39221 -68.65978,54.46803 -52.88674,78.82034 20.77002,13.04811 64.01812,35.95785 69.42269,90.03899 z"
          id="path7952-9-8-6"
          inkscape:connector-curvature="0"
@@ -7846,7 +7846,7 @@ Casual Tux FlowerStripe is released under the same license as the original Tux.
         </g>
       </g>
       <path
-         style="fill:url(#linearGradient41788-1-0);fill-opacity:1;stroke:#7d7d7d;stroke-width:2.69650722;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:url(#linearGradient41788-1-0);fill-opacity:1;stroke:#000000;stroke-width:2.69650722;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 283.12841,585.61008 c -27.23099,-10.83596 -22.03319,-20.78844 -64.25132,-3.58475 9.12737,-27.93511 19.07551,-55.28452 36.71783,-86.36699 10.65745,-22.35281 26.48416,-50.37521 54.64159,-77.07927 75.99429,3.39221 46.67355,56.51208 29.81746,73.96533 -16.97933,17.8244 -40.94885,42.03179 -56.92556,93.06568 z"
          id="path7952-7-2-3-6"
          inkscape:connector-curvature="0"
@@ -8086,25 +8086,25 @@ Casual Tux FlowerStripe is released under the same license as the original Tux.
        transform="matrix(1.9387755,0,0,1.9387755,109.61225,230.61227)"
        id="g3116-6">
       <path
-         style="fill:#440055;fill-opacity:1;stroke:#7d7d7d;stroke-width:2.69650722;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#440055;fill-opacity:1;stroke:#000000;stroke-width:2.69650722;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 334.15919,371.253 1.73512,27.89157 41.75161,-12.07491 -6.08189,-18.7187 z"
          id="path9588-3-1-4"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccccc" />
       <path
-         style="fill:#440055;fill-opacity:1;stroke:#7d7d7d;stroke-width:2.69650722;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#440055;fill-opacity:1;stroke:#000000;stroke-width:2.69650722;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 710.65482,333.4752 -1.73512,27.89157 -41.7516,-12.07491 6.08188,-18.7187 z"
          id="path9588-3-3"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccccc" />
       <path
-         style="fill:#191919;fill-opacity:1;stroke:#7d7d7d;stroke-width:2.69650722;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#191919;fill-opacity:1;stroke:#000000;stroke-width:2.69650722;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 840.02557,550.13051 c -46.00688,6.65557 -93.79871,15.52828 -90.97725,12.60693 l 68.85672,-49.74587 c 8.49661,11.27903 14.94534,24.56496 22.12053,37.13894 z"
          id="path9588-36"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccc" />
       <path
-         style="fill:#191919;fill-opacity:1;stroke:#7d7d7d;stroke-width:2.69650722;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#191919;fill-opacity:1;stroke:#000000;stroke-width:2.69650722;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 219.09944,583.02213 c 46.00686,6.65559 93.79868,15.5283 90.97723,12.60695 l -68.8567,-49.74587 c -8.49663,11.27902 -14.94536,24.56495 -22.12053,37.13892 z"
          id="path9588-42-9"
          inkscape:connector-curvature="0"
@@ -9972,7 +9972,7 @@ Casual Tux FlowerStripe is released under the same license as the original Tux.
            d="m 54.582,279.377 c -4.823,5.111 -14.472,-4.969 -26.855,5.543 -5.112,4.32 1.8,11.088 0.576,25.561 -0.504,5.616 -2.521,8.352 -4.536,15.768 -1.584,5.76 -2.088,8.064 0.144,10.729 5.977,6.984 11.952,-2.52 45.576,4.32 17.856,3.6 23.256,10.295 41.76,8.64 6.192,-0.576 7.272,-0.504 12.528,-5.472 6.624,-6.264 6.768,-4.824 7.56,-8.856 2.592,-13.248 3.528,-13.176 -6.336,-28.8 -9.864,-15.624 -11.448,-18.504 -18,-28.872 -6.552,-10.224 -19.512,-28.8 -26.928,-29.017 -5.904,-0.144 -9.216,3.024 -12.888,6.769 -3.672,3.745 -7.129,17.855 -12.601,23.687 z" />
       </g>
       <path
-         style="fill:#000000;fill-opacity:1;stroke:#7d7d7d;stroke-width:2.69650722;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.69650722;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 482.98604,475.83415 -4.70523,376.95182 c 136.88571,-75.10762 245.95665,-46.29685 291.47256,-49.77049 l -88.34207,-36.04089 13.88355,-72.22757 c 8.20122,-17.91484 20.50947,-25.57142 36.87575,-28.38479 17.25716,-30.04508 24.21967,-56.36611 15.51368,-102.34059 -6.6719,-51.07641 -35.50534,-69.0471 -70.41538,-90.92259 -34.12856,-68.57115 27.44813,-78.81879 51.77714,-81.30026 -6.81382,-12.25814 -6.83205,-4.6952 -18.74985,-54.77544 z"
          id="path7950-7"
          inkscape:connector-curvature="0"
@@ -10627,13 +10627,13 @@ Casual Tux FlowerStripe is released under the same license as the original Tux.
            d="m 269.35,236.025 c -0.68,2.647 -3.303,9.161 -4.081,8.599 -0.548,-0.4 1.377,-3.056 2.938,-8.225 0.187,-0.611 0.437,-1.438 0.806,-1.988 0.464,-0.763 1.361,-2.293 0.337,1.614 z" />
       </g>
       <path
-         style="fill:url(#linearGradient22301-9-8);fill-opacity:1;stroke:#7d7d7d;stroke-width:2.69650722;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:url(#linearGradient22301-9-8);fill-opacity:1;stroke:#000000;stroke-width:2.69650722;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 482.98604,475.83415 -4.70523,376.95182 c 136.88571,-75.10762 245.95665,-46.29685 291.47257,-49.77049 l -88.34208,-36.04089 13.88355,-72.22757 c 8.20122,-17.91484 20.50947,-25.57142 36.87575,-28.38479 17.25719,-30.04508 24.21968,-56.36611 15.51368,-102.34059 -6.67194,-51.07641 -35.50534,-69.0471 -70.41538,-90.92259 -34.12856,-68.57115 27.44813,-78.81879 51.77714,-81.30026 -6.81382,-12.25814 -6.83205,-4.6952 -18.74985,-54.77544 z"
          id="path7950-2-7-9"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccccccccccc" />
       <path
-         style="fill:#000000;fill-opacity:1;stroke:#7d7d7d;stroke-width:2.69650722;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.69650722;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 499.36968,474.21921 4.70523,376.95181 c -51.83246,-23.01244 -83.95045,-24.46648 -106.68422,-28.93242 8.30264,-40.70883 -11.28423,-36.57504 -65.70464,-88.86226 -17.31406,-12.95341 -43.87135,-36.54315 -59.22508,-45.80639 -2.06908,-30.54122 -0.99168,-62.00883 10.24564,-107.98332 16.06009,-41.67681 18.2574,-39.97509 44.61623,-89.52608 21.90604,-71.42307 -37.13089,-44.8808 -24.31606,-61.01267 6.81382,-12.25813 6.02515,-8.50642 37.1498,-51.17163 z"
          id="path7950-1-8"
          inkscape:connector-curvature="0"
@@ -12041,7 +12041,7 @@ Casual Tux FlowerStripe is released under the same license as the original Tux.
         </g>
       </g>
       <path
-         style="fill:#440055;fill-opacity:1;stroke:#7d7d7d;stroke-width:2.69650722;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#440055;fill-opacity:1;stroke:#000000;stroke-width:2.69650722;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="M 573.09604,448.48973 484.84812,474.47045 657.96567,369.08963 Z"
          id="path9588-4-15"
          inkscape:connector-curvature="0"
@@ -12264,19 +12264,19 @@ Casual Tux FlowerStripe is released under the same license as the original Tux.
         </g>
       </g>
       <path
-         style="fill:#440055;fill-opacity:1;stroke:#7d7d7d;stroke-width:2.69650722;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#440055;fill-opacity:1;stroke:#000000;stroke-width:2.69650722;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 618.94898,447.95478 c -3.03958,-8.27988 -7.06654,-16.55974 -18.92265,-24.83963 l 57.93934,-55.09539 53.1905,-34.66361 c 7.78099,9.09566 10.91223,18.19131 12.92246,27.28697 z"
          id="path9588-9-4"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccccc" />
       <path
-         style="fill:url(#linearGradient22269-1-1);fill-opacity:1;stroke:#7d7d7d;stroke-width:2.69650722;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:url(#linearGradient22269-1-1);fill-opacity:1;stroke:#000000;stroke-width:2.69650722;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 499.36924,474.21921 4.70522,376.95186 c -51.83235,-23.01246 -83.9503,-24.46658 -106.68403,-28.93244 8.30264,-40.70886 -11.2842,-36.57507 -65.7045,-88.86229 -17.31403,-12.95341 -43.87126,-36.54315 -59.22496,-45.80639 -2.06908,-30.54122 -0.99168,-62.00883 10.24562,-107.98332 16.06006,-41.67681 18.25736,-39.97509 44.61615,-89.52608 21.90599,-71.42307 -37.13082,-44.8808 -24.31601,-61.01267 6.81379,-12.25813 6.02512,-8.50642 37.14972,-51.17163 z"
          id="path7950-1-0-9-4"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccccccccc" />
       <path
-         style="fill:#440055;fill-opacity:1;stroke:#7d7d7d;stroke-width:2.69650722;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#440055;fill-opacity:1;stroke:#000000;stroke-width:2.69650722;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="M 428.68814,453.78418 498.91716,474.8895 361.14764,389.28385 Z"
          id="path9588-4-1-9"
          inkscape:connector-curvature="0"
@@ -12843,25 +12843,25 @@ Casual Tux FlowerStripe is released under the same license as the original Tux.
         </g>
       </g>
       <path
-         style="fill:#440055;fill-opacity:1;stroke:#7d7d7d;stroke-width:2.69650722;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#440055;fill-opacity:1;stroke:#000000;stroke-width:2.69650722;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 401.8982,461.40585 c 2.25205,-6.5052 5.23563,-13.01033 14.01976,-19.51548 l -42.92713,-43.28614 -39.40871,-27.23378 c -5.76492,7.14605 -8.08481,14.29217 -9.57421,21.43827 z"
          id="path9588-9-7-8"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccccc" />
       <path
-         style="fill:#000000;fill-opacity:1;stroke:#7d7d7d;stroke-width:2.69650722;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.69650722;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 283.12841,585.61008 c -27.23099,-10.83596 -22.03319,-20.78844 -64.25132,-3.58475 9.12737,-27.93511 19.07551,-55.28452 36.71783,-86.36699 10.65745,-22.35281 26.48416,-50.37521 54.64159,-77.07927 75.99426,3.39221 46.67353,56.51208 29.81743,73.96533 -16.97932,17.8244 -40.94882,42.03179 -56.92553,93.06568 z"
          id="path7952-7-1"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccccc" />
       <path
-         style="fill:#000000;fill-opacity:1;stroke:#7d7d7d;stroke-width:2.69650722;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.69650722;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 746.75274,561.904 c 27.23098,-10.83594 49.39638,-31.14914 91.61451,-13.94546 -9.74927,-23.66891 -40.84168,-68.08304 -51.02132,-80.27244 -19.98582,-32.10405 -18.39957,-24.16868 -57.12914,-74.64143 -75.99428,3.39221 -68.65978,54.46803 -52.88674,78.82034 20.77002,13.04811 64.01812,35.95785 69.42269,90.03899 z"
          id="path7952-5"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccccc" />
       <path
-         style="fill:url(#linearGradient41825-8-0-8);fill-opacity:1;stroke:#7d7d7d;stroke-width:2.69650722;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:url(#linearGradient41825-8-0-8);fill-opacity:1;stroke:#000000;stroke-width:2.69650722;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 746.75274,561.904 c 27.23097,-10.83594 49.39637,-31.14914 91.61454,-13.94546 -9.74931,-23.66891 -40.84172,-68.08304 -51.02136,-80.27244 -19.98581,-32.10405 -18.39956,-24.16868 -57.12913,-74.64143 -75.99428,3.39221 -68.65978,54.46803 -52.88674,78.82034 20.77002,13.04811 64.01812,35.95785 69.42269,90.03899 z"
          id="path7952-9-8-6-3"
          inkscape:connector-curvature="0"
@@ -13429,7 +13429,7 @@ Casual Tux FlowerStripe is released under the same license as the original Tux.
         </g>
       </g>
       <path
-         style="fill:url(#linearGradient41788-1-0-5);fill-opacity:1;stroke:#7d7d7d;stroke-width:2.69650722;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:url(#linearGradient41788-1-0-5);fill-opacity:1;stroke:#000000;stroke-width:2.69650722;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 283.12841,585.61008 c -27.23099,-10.83596 -22.03319,-20.78844 -64.25132,-3.58475 9.12737,-27.93511 19.07551,-55.28452 36.71783,-86.36699 10.65745,-22.35281 26.48416,-50.37521 54.64159,-77.07927 75.99429,3.39221 46.67355,56.51208 29.81746,73.96533 -16.97933,17.8244 -40.94885,42.03179 -56.92556,93.06568 z"
          id="path7952-7-2-3-6-0"
          inkscape:connector-curvature="0"
